@@ -1,0 +1,12 @@
+.Persist{
+    text-decoration: none;
+    color:white
+}
+
+.Ptext :hover{
+    color: yellow;
+}
+
+.FooterText{
+    color: white;
+}

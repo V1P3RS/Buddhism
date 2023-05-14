@@ -1,0 +1,17 @@
+.Card{
+    transition:  all (15s);
+}
+
+.Card :hover{
+    filter: brightness(50%);
+    
+}
+
+.text_card :hover{
+    color: orange;
+}
+
+.linkName{
+    text-decoration: none;
+    color: #000;
+}
